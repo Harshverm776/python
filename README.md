@@ -1,2 +1,2 @@
 # python
-Content resource from Coursera learning.
+Content resources from Coursera learning.
